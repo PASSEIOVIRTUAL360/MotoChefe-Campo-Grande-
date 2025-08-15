@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" appversion="7.1.10" apprev="21009">
+  <panorama id="node1">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-79.2686" fovmode="2">
+      <start fov="100" tilt="-1.0938" projection="4" pan="-177.75"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55065245" nodeid="node1" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="25.08" heading="-79.2686" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91817912" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="4.50384" description="" tilt="0" url="{node2}" pan="-181.296" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-78.9512" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55060944" nodeid="node2" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="21.52" heading="-78.9512" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91818756" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="4.50384" description="" tilt="0" url="{node1}" pan="-0.97831" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="3.83054" description="" tilt="0" url="{node3}" pan="-180.607" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point03" target="$fwd" skinid="ht_node" distance="3.82086" description="" tilt="0" url="{node9}" pan="-92.4684" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-87.1358" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55057281" nodeid="node3" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="41.91" heading="-87.1358" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91819452" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="3.83054" description="" tilt="0" url="{node2}" pan="-8.79197" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="3.76846" description="" tilt="0" url="{node5}" pan="-179.639" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point03" target="$fwd" skinid="ht_node" distance="3.96256" description="" tilt="0" url="{node4}" pan="-94.143" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-87.4567" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55056809" nodeid="node4" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="28.47" heading="-87.4567" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91815915" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="3.96256" description="" tilt="0" url="{node3}" pan="85.5361" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-93.5675" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55053605" nodeid="node5" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="32.51" heading="-93.5675" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91819600" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="3.76846" description="" tilt="0" url="{node3}" pan="-6.07039" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="3.58165" description="" tilt="0" url="{node6}" pan="-103.58" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90.1193" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55052997" nodeid="node6" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="21.35" heading="-90.1193" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91816428" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="3.58165" description="" tilt="0" url="{node5}" pan="79.8685" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point03" target="$fwd" skinid="ht_node" distance="4.01994" description="" tilt="0" url="{node7}" pan="-94.6346" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-92.0766" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55052688" nodeid="node7" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="36.63" heading="-92.0766" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91812824" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="4.01994" description="" tilt="0" url="{node6}" pan="83.4081" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="2.84652" description="" tilt="0" url="{node8}" pan="-95.2529" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90.8738" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55052534" nodeid="node8" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="26.62" heading="-90.8738" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91810268" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="2.84652" description="" tilt="0" url="{node7}" pan="85.9499" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="6.98914" description="" tilt="0" url="{node10}" pan="-4.00198" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90.9106" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55060072" nodeid="node9" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="22.52" heading="-90.9106" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91815415" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="3.82086" description="" tilt="0" url="{node2}" pan="75.5722" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="6.14947" description="" tilt="0" url="{node10}" pan="-97.8362" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" overlap="1" height="2000" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="2000">
+      <level preload="0" height="2000" predecode="0" width="2000"/>
+      <level preload="0" height="1000" predecode="0" width="1000"/>
+      <level preload="1" height="500" predecode="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-94.6833" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fov="140" tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata longitude="-43.55059348" nodeid="node10" author="MotoChefe Campo Grande " tags="ofiii" source="MotoChefe Campo Grande " altitude="25.17" heading="-94.6833" customnodeid="" description="MotoChefe Campo Grande " info="MotoChefe Campo Grande " latitude="-22.91809925" datetime="2025:08:15 02:12:25" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" textalpha="1" wordwrap="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderalpha="1" background="1" border="1" borderradius="1" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="$fwd" skinid="ht_node" distance="6.14947" description="" tilt="0" url="{node9}" pan="78.3911" title="MotoChefe Campo Grande "/>
+      <hotspot id="Point02" target="$fwd" skinid="ht_node" distance="6.98914" description="" tilt="0" url="{node8}" pan="-187.812" title="MotoChefe Campo Grande "/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomspeed="2" blendcolor="0x000000" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" softedge="0" zoomin="7" zoomout="0" zoomfov="40" zoomafteroutfov="40" blendtime="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" contextvr="1" hideabout="0" zoomcentercursor="1" lockedmouse="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" invertcontrol="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="MotoChefe Campo Grande " author="MotoChefe Campo Grande " tags="" title="MotoChefe Campo Grande " copyright="MotoChefe Campo Grande " comment="MotoChefe Campo Grande "/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
